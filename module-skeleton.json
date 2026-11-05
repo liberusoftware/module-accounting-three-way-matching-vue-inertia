@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-three-way-matching-vue-inertia",
+  "capabilityKey": "liberusoftware/module-accounting-three-way-matching",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-accounting-three-way-matching-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/accounting/nextjs/three-way-matching.md",
+  "presentationPlan": "projects/accounting/vue/three-way-matching.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
